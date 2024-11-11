@@ -63,7 +63,7 @@ Developed a comprehensive Power BI dashboard for AtliQ Hardware, providing the s
 
 ## Live Dashboard
 
-You can view the live Power BI dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYTVlYTBhYTQtZDM4OS00ZmJmLThhOWMtMGEyZDc2YmQ0YmVkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
+You can view the live Power BI dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNmY1NzRhN2YtMGMzMi00ZDE2LTkxOWEtYTQyYzlkZjY1Njk0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
 
 ---
 
