@@ -1,105 +1,95 @@
-# 📊 AtliQ Hardware - Business Intelligence Dashboard  
+# 📊 AtliQ Hardware Business Insights Dashboard
 
-## 🏢 About AtliQ Hardware  
-AtliQ Hardware is a **global leader in computer hardware manufacturing**, serving businesses worldwide with **high-quality components**. With rapid expansion into new markets, the company faced **growing complexity in decision-making**, requiring **data-driven strategies** to stay ahead.  
+## 🏢 About AtliQ Hardware
+AtliQ Hardware is a **leading manufacturer of high-quality computer hardware components** in India, with a **strong presence in international markets**. The company specializes in **processors, graphics cards, motherboards, storage solutions, and networking equipment**.  
 
-## ⚠️ The Challenge: Slow, Inefficient Decision-Making  
-Despite its scale, AtliQ struggled with **intuition-based decision-making**, especially in Latin America. The leadership team lacked:  
-🔹 **Accurate forecasts** for sales and demand  
-🔹 **Visibility into profit and loss drivers**  
-🔹 **Insights into operational inefficiencies**  
-
-As a result, **poor planning led to financial losses and supply chain inefficiencies** in a highly competitive market.  
-
-## 💡 The Solution: A Centralized BI Dashboard  
-To solve these challenges, I developed a **comprehensive Power BI dashboard** that consolidates financial, sales, marketing, supply chain, and executive insights into a **single source of truth**. This enables:  
-✅ **Faster, smarter decision-making**  
-✅ **Real-time visibility into business performance**  
-✅ **Data-backed strategy execution for growth**  
+### 🌍 Business Operations
+- **Manufacturing & Distribution**: AtliQ produces cutting-edge hardware and distributes it across multiple regions.
+- **Sales Channels**: Products are sold through **direct B2B partnerships, online platforms, and authorized retailers**.
+- **Market Expansion**: The company has a strong hold in **Asia, Europe, and North America**, but is facing **challenges in Latin America** due to ineffective data-driven decision-making.
 
 ---
 
-## 🚀 Key Insights & Business Impact  
+## ❌ The Problem: Data Gaps & Inefficiencies
+AtliQ Hardware struggled in Latin America due to:
+- **Intuition-Based Decisions**: Lack of structured data insights led to **inaccurate demand forecasts**.
+- **Operational Inefficiencies**: Poor **inventory management** resulted in stockouts and excess stock.
+- **Financial Losses**: Ineffective pricing strategies led to **lower profitability** in competitive markets.
+- **Slow Decision-Making**: Leadership lacked real-time insights, delaying crucial business strategies.
 
-### 💰 **Financial Performance**  
-✔️ Identified **profit & loss drivers** across markets  
-✔️ Analyzed **net sales trends & gross margin fluctuations**  
-✔️ Highlighted **high-impact deductions & cost leakages**  
-
-### 📈 **Sales & Customer Analytics**  
-✔️ Evaluated **top-performing products & customer segments**  
-✔️ Provided **granular insights into customer profitability**  
-✔️ Optimized **pricing strategies based on margin analysis**  
-
-### 🎯 **Marketing Strategy**  
-✔️ Measured **discount effectiveness & growth opportunities**  
-✔️ Assessed **region-wise & market-wise performance**  
-✔️ Compared **unit economics & operational expenses**  
-
-### 🚚 **Supply Chain Optimization**  
-✔️ Improved **forecast accuracy & demand planning**  
-✔️ Identified **risks like out-of-stock & excess inventory**  
-✔️ Minimized **net errors & optimized logistics**  
-
-### 🏢 **Executive View - High-Level Business Intelligence**  
-✔️ **Trends Analysis** – Visual representation of business trends over time  
-✔️ **Comparative Insights** – Performance comparison against benchmarks & targets  
-✔️ **Actionable Insights** – Data-backed recommendations for strategic decisions  
-✔️ **Key Financial Metrics** – Net sales, gross margin, net profit, and forecast accuracy  
-
-🚀 **The Executive View enables top leadership to make informed decisions quickly, driving efficiency and profitability!**  
+To address these challenges, a **comprehensive BI solution** was needed.
 
 ---
 
-## 📌 Dashboard Overview  
+## 🛠️ The Solution: Data-Driven Insights  
+To enable **strategic decision-making**, AtliQ Hardware provided:
+1. **SQL Dump Files** – Containing transactional and operational data.
+2. **Dashboard Mockups** – A rough sketch outlining business requirements.
+3. **Report Feature Plan** – An Excel file detailing key metrics for each dashboard view.
 
-### 🏠 **Home View**  
-🔹 **Page navigation buttons** for seamless access to different views  
-
-### 💰 **Finance View**  
-📌 **Profit & Loss Statements** – Full financial breakdown  
-📌 **Net Sales Trend** – Sales performance over time  
-📌 **Customer & Product Performance** – High vs. low performers  
-📌 **Gross Margin & Net Profit** – Clear visibility into profitability  
-
-### 📈 **Sales View**  
-📌 **Customer & Product Trends** – Performance by net sales & margin %  
-📌 **Performance Matrix** – Customer segmentation based on revenue & profit  
-📌 **Unit Economics** – Understanding **COGS & deductions**  
-
-### 🎯 **Marketing View**  
-📌 **Market, Customer & Product Performance** – Profitability insights  
-📌 **Discount & Campaign Impact** – Data-backed strategy evaluation  
-📌 **Operational Expense Analysis** – Understanding true costs  
-
-### 🚚 **Supply Chain View**  
-📌 **Forecast Accuracy Metrics** – Track net error & absolute error  
-📌 **Inventory Risks** – Out-of-stock & excess inventory insights  
-📌 **Year-over-Year Trends** – Comparing forecast accuracy over time  
-
-### 🏢 **Executive View**  
-📌 **Trends & Growth Patterns** – Business trends for quick insights  
-📌 **Comparative Analysis** – Performance comparison against historical data  
-📌 **Actionable Insights** – AI-driven recommendations for leadership  
-📌 **Key Financial Metrics** – Net sales, GM%, net profit, & forecast accuracy  
-
-🚀 **This view provides high-level intelligence for executives to make rapid, strategic decisions!**  
+With this data, I built a **powerful Power BI dashboard** to help **finance, sales, marketing, and supply chain teams** make **smarter, faster, and more profitable** decisions.
 
 ---
 
-## 🌟 Business Value Delivered  
-🔹 **Replaced intuition-based decisions with real-time analytics**  
-🔹 **Reduced inefficiencies & improved financial performance**  
-🔹 **Optimized supply chain & enhanced forecasting accuracy**  
-🔹 **Empowered leadership with actionable insights**  
+## 📊 Dashboard Overview
+This interactive Power BI dashboard includes **multiple views**, each designed to provide actionable insights.
 
-📌 **Tech Stack:** SQL | Power BI | DAX | Power Query  
+### 🔹 [Home View](#)  
+- **Navigation Panel**: One-click access to different dashboard views.
 
-🚀 **This dashboard is a game-changer for data-driven decision-making. Let’s connect and discuss how similar solutions can add value to your business!**  
+### 💰 [Finance View](#)
+- **Profit & Loss Matrix** – Summarizes financial performance.
+- **Net Sales Trend** – Tracks revenue growth.
+- **Top/Bottom Customers & Products** – Identifies key revenue drivers.
+- **Gross Margin & Net Profit Analysis** – Provides insights into profitability.
+- **Pre & Post Invoice Deductions** – Helps finance teams track cost adjustments.
 
---- 
+**🟢 Business Impact:**  
+📌 Helps **finance teams** optimize pricing, cut unnecessary deductions, and improve overall profitability.
 
-## Key Learnings
+---
+
+### 📈 [Sales View](#)
+- **Customer & Product Performance** – Identifies high/low-performing customers and products.
+- **Gross Margin Analysis** – Evaluates profitability per product/customer.
+- **Unit Economics** – Tracks **COGS and deductions** for pricing optimization.
+
+**🟢 Business Impact:**  
+📌 Supports **sales teams** in targeting high-value customers and refining sales strategies.
+
+---
+
+### 🎯 [Marketing View](#)
+- **Market, Region & Customer Analysis** – Identifies profitable regions and customers.
+- **Product Performance Metrics** – Highlights best-selling and underperforming products.
+- **Operational Expense Breakdown** – Tracks advertising and marketing expenditures.
+
+**🟢 Business Impact:**  
+📌 Enables **marketing teams** to allocate budgets effectively and improve campaign targeting.
+
+---
+
+### 📦 [Supply Chain View](#)
+- **Forecast Accuracy & Net Error Trend** – Compares predicted vs. actual demand.
+- **Stock Risks (OOS & Excess Inventory)** – Flags inventory issues.
+- **Customer & Product KPIs** – Assesses supply chain efficiency.
+
+**🟢 Business Impact:**  
+📌 Helps **supply chain managers** reduce **stockouts and overstocking**, ensuring **better inventory planning**.
+
+---
+
+### 🚀 [Executive View](#)
+- **High-Level KPI Summary** – Quick insights into **net sales, gross margin, and net profit**.
+- **Comparative Analysis** – Benchmarks performance against targets.
+- **Actionable Recommendations** – Suggests key strategies based on data trends.
+
+**🟢 Business Impact:**  
+📌 Provides **CEOs & decision-makers** with a **bird’s-eye view** for strategic growth.
+
+---
+
+## 🎯 Key Learnings
 
 - Created calculated columns.
 - Developed various DAX measures with different functions and formulas.
@@ -112,7 +102,7 @@ To solve these challenges, I developed a **comprehensive Power BI dashboard** th
 - Published reports to Power BI Service.
 - Set up a personal gateway for automatic data refresh.
 
-## Additional Skills Acquired
+## 🎯 Additional Skills Acquired
 
 - Project charter development.
 - Advanced DAX language proficiency.
@@ -120,8 +110,12 @@ To solve these challenges, I developed a **comprehensive Power BI dashboard** th
 - Proficient use of Excel and SQL.
 - Expertise in Power BI Desktop.
 
---- 
 
-## Live Dashboard
+---
 
-You can view the live Power BI dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNmY1NzRhN2YtMGMzMi00ZDE2LTkxOWEtYTQyYzlkZjY1Njk0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
+## 🎥 See It in Action!
+🔗 **[Dashboard Demo](https://app.powerbi.com/view?r=eyJrIjoiODcyNWNhNDktNmFkYS00YTI3LWExZjctOTVkZTQ4NzdjODI0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**  
+📽️ **[Video Presentation](#)**  
+
+I'm always open to discussions, collaborations, and exciting opportunities! If you're looking for **a data-driven problem solver**, let's connect. 🚀
+
