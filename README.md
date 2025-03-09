@@ -24,7 +24,7 @@ To address these challenges, a **comprehensive BI solution** was needed.
 ## 🛠️ The Solution: Data-Driven Insights  
 To enable **strategic decision-making**, AtliQ Hardware provided:
 1. **SQL Dump Files** – Containing transactional and operational data.
-2. **Dashboard Mockups**(https://github.com/adityaraj005/Business-Insight-360/blob/bcfa419b93bf3428b1f6cf9403da74878b16fe88/rough-dashboard-sketch.pdf) – A rough sketch outlining business requirements.
+2. [**Dashboard Mockups**](https://github.com/adityaraj005/Business-Insight-360/blob/bcfa419b93bf3428b1f6cf9403da74878b16fe88/rough-dashboard-sketch.pdf) – A rough sketch outlining business requirements.
 3. **Report Feature Plan** – An Excel file detailing key metrics for each dashboard view.
 
 With this data, I built a **powerful Power BI dashboard** to help **finance, sales, marketing, and supply chain teams** make **smarter, faster, and more profitable** decisions.
