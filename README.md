@@ -24,7 +24,7 @@ To address these challenges, a **comprehensive BI solution** was needed.
 ## 🛠️ The Solution: Data-Driven Insights  
 To enable **strategic decision-making**, AtliQ Hardware provided:
 1. **SQL Dump Files** – Containing transactional and operational data.
-2. **Dashboard Mockups** – A rough sketch outlining business requirements.
+2. **Dashboard Mockups**(https://github.com/adityaraj005/Business-Insight-360/blob/bcfa419b93bf3428b1f6cf9403da74878b16fe88/rough-dashboard-sketch.pdf) – A rough sketch outlining business requirements.
 3. **Report Feature Plan** – An Excel file detailing key metrics for each dashboard view.
 
 With this data, I built a **powerful Power BI dashboard** to help **finance, sales, marketing, and supply chain teams** make **smarter, faster, and more profitable** decisions.
@@ -34,10 +34,10 @@ With this data, I built a **powerful Power BI dashboard** to help **finance, sal
 ## 📊 Dashboard Overview
 This interactive Power BI dashboard includes **multiple views**, each designed to provide actionable insights.
 
-### 🔹 [Home View](#)  
+### 🔹 [Home View](https://github.com/adityaraj005/Business-Insight-360/blob/bcfa419b93bf3428b1f6cf9403da74878b16fe88/Dashboard%20Views/Home%20view.pdf)  
 - **Navigation Panel**: One-click access to different dashboard views.
 
-### 💰 [Finance View](#)
+### 💰 [Finance View](https://github.com/adityaraj005/Business-Insight-360/blob/bcfa419b93bf3428b1f6cf9403da74878b16fe88/Dashboard%20Views/Finance%20View.pdf)
 - **Profit & Loss Matrix** – Summarizes financial performance.
 - **Net Sales Trend** – Tracks revenue growth.
 - **Top/Bottom Customers & Products** – Identifies key revenue drivers.
@@ -49,7 +49,7 @@ This interactive Power BI dashboard includes **multiple views**, each designed t
 
 ---
 
-### 📈 [Sales View](#)
+### 📈 [Sales View](https://github.com/adityaraj005/Business-Insight-360/blob/bcfa419b93bf3428b1f6cf9403da74878b16fe88/Dashboard%20Views/Sales%20View.pdf)
 - **Customer & Product Performance** – Identifies high/low-performing customers and products.
 - **Gross Margin Analysis** – Evaluates profitability per product/customer.
 - **Unit Economics** – Tracks **COGS and deductions** for pricing optimization.
@@ -59,7 +59,7 @@ This interactive Power BI dashboard includes **multiple views**, each designed t
 
 ---
 
-### 🎯 [Marketing View](#)
+### 🎯 [Marketing View](https://github.com/adityaraj005/Business-Insight-360/blob/bcfa419b93bf3428b1f6cf9403da74878b16fe88/Dashboard%20Views/Marketing%20View.pdf)
 - **Market, Region & Customer Analysis** – Identifies profitable regions and customers.
 - **Product Performance Metrics** – Highlights best-selling and underperforming products.
 - **Operational Expense Breakdown** – Tracks advertising and marketing expenditures.
@@ -69,7 +69,7 @@ This interactive Power BI dashboard includes **multiple views**, each designed t
 
 ---
 
-### 📦 [Supply Chain View](#)
+### 📦 [Supply Chain View](https://github.com/adityaraj005/Business-Insight-360/blob/bcfa419b93bf3428b1f6cf9403da74878b16fe88/Dashboard%20Views/Supply%20Chain%20View.pdf)
 - **Forecast Accuracy & Net Error Trend** – Compares predicted vs. actual demand.
 - **Stock Risks (OOS & Excess Inventory)** – Flags inventory issues.
 - **Customer & Product KPIs** – Assesses supply chain efficiency.
@@ -79,7 +79,7 @@ This interactive Power BI dashboard includes **multiple views**, each designed t
 
 ---
 
-### 🚀 [Executive View](#)
+### 🚀 [Executive View](https://github.com/adityaraj005/Business-Insight-360/blob/bcfa419b93bf3428b1f6cf9403da74878b16fe88/Dashboard%20Views/Executive%20View.pdf)
 - **High-Level KPI Summary** – Quick insights into **net sales, gross margin, and net profit**.
 - **Comparative Analysis** – Benchmarks performance against targets.
 - **Actionable Recommendations** – Suggests key strategies based on data trends.
